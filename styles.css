@@ -1,0 +1,16 @@
+#main{
+align-content: center;
+}
+
+#title{
+    
+}
+
+#img-div{
+    max-width: fit-content;
+    height:auto;
+}
+
+#img-div #image, #img-div #img-caption{
+    
+}
